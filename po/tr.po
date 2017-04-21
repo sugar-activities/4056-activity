@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-11 00:31-0400\n"
+"PO-Revision-Date: 2008-08-27 10:54-0400\n"
+"Last-Translator: abdullah kocabas <abdullah.kocabas@abcdizustu.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Log"
+msgstr "kaydediniz."
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"This is an activity designed for anyone who wants to troubleshoot a "
+"complicated program on the computer."
+msgstr ""
+
+#: logviewer.py:93
+msgid "Log Files"
+msgstr "dosyaları kaydediniz."
+
+#: logviewer.py:101
+msgid "Other"
+msgstr "diğer"
+
+#: logviewer.py:211
+#, python-format
+msgid "ERROR: Failed to look for files in '%(path)s'."
+msgstr "hata: '%(path)s'in içindeki dosyalara bakamıyor."
+
+#: logviewer.py:227
+#, python-format
+msgid "ERROR: File '%(file)s' does not exist."
+msgstr "hata: '%(file)s' yok."
+
+#: logviewer.py:232
+#, python-format
+msgid "ERROR: Unable to read file '%(file)s'."
+msgstr "hata: %(file)s'yı okuyamıyor."
+
+#: logviewer.py:364
+#, python-format
+msgid "Error: Can't open file '%s'\n"
+msgstr "hata: %s dosyasını açamıyor.\n"
+
+#: logviewer.py:405
+msgid "Show list of files"
+msgstr ""
+
+#: logviewer.py:415
+msgid "Word Wrap"
+msgstr "kelime dosyası"
+
+#: logviewer.py:431
+msgid "Previous"
+msgstr "önceki"
+
+#: logviewer.py:436
+msgid "Next"
+msgstr "diğer"
+
+#: logviewer.py:450
+msgid "Delete Log File"
+msgstr "kaydedilen dosyaları siliniz."
+
+#: logviewer.py:522
+msgid "Error"
+msgstr "hata"
+
+#: logviewer.py:523
+#, python-format
+msgid "%(error)s when deleting %(file)s"
+msgstr "%(error)s sını silerken %(file)s oluştu."
+
+#: logviewer.py:534
+#, fuzzy
+msgid "Log Collector: Capture information"
+msgstr "kayıt toplayıcısı: XO bilgilerini yollayınız."
+
+#: logviewer.py:541
+msgid ""
+"This captures information about the system\n"
+"and running processes to a journal entry.\n"
+"Use this to improve a problem report."
+msgstr ""
+
+#: logviewer.py:545
+msgid "Capture information"
+msgstr ""
+
+#: logviewer.py:567
+msgid "Logs not captured"
+msgstr ""
+
+#: logviewer.py:568
+msgid "The logs could not be captured."
+msgstr ""
+
+#: logviewer.py:578
+#, python-format
+msgid "log-%s"
+msgstr ""
+
+#~ msgid "Tools"
+#~ msgstr "araçlar"
+
+#~ msgid ""
+#~ "Log collector sends information about the system\n"
+#~ "and running processes to a central server.  Use\n"
+#~ "this option if you want to report a problem."
+#~ msgstr ""
+#~ "kayıt toplayıcısı sistem/n hakkında ve ana sistemin işleyişi hakkında bilgi "
+#~ "yollar. Bir sorun bildirmek için n/bu yolu kullanınız."
+
+#~ msgid "Send information"
+#~ msgstr "bilgi yollayınız."
+
+#~ msgid "Logs sent"
+#~ msgstr "kayıtlar yollandı."
+
+#~ msgid "The logs were uploaded to the server."
+#~ msgstr "kayıtlar sunucuya yüklendi."
+
+#~ msgid "Logs not sent"
+#~ msgstr "kayıtlar yollanmadı."
+
+#~ msgid ""
+#~ "The logs could not be uploaded to the server. Please check your network "
+#~ "connection."
+#~ msgstr "kayıtlar sunucuya yüklenemedi. Lütfen ağ bağlantınızı kontrol ediniz."
+
+#~ msgid "Edit"
+#~ msgstr "düzenleyiniz."
